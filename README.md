@@ -1,0 +1,1 @@
+It involves working with a dataset of stock market headlines to predict whether the market sentiment is positive (up) or negative (down). The data is cleaned and preprocessed by removing non-alphabetic characters, converting text to lowercase, and performing tokenization, stopword removal, and stemming.
